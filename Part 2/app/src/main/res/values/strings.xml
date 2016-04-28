@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MeineApp</string>
+    <string name="HelloWorld">Hallo Welt!</string>
+    <string name="Knopf">Knopf!</string>
+</resources>
